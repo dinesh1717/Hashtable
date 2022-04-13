@@ -51,4 +51,3 @@ public class MyHashTable <K, V> {
         System.out.println("My nodes: " + head);
     }
 }
-
